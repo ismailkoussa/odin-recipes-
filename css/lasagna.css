@@ -1,0 +1,37 @@
+img
+{
+    width: 500px;
+    height: auto;
+}
+
+h1
+{
+    font-family: "Brush Script MT",cursive;
+}
+
+h2
+{
+    color: darkgreen;
+    font-family: "Courier New",monospace;
+    font-weight: bolder;
+}
+
+ul li
+{
+    color: blueviolet;
+    font-weight: bold;
+    padding-bottom: 1%;
+}
+
+ol li
+{
+    color: slategray;
+    padding-bottom: 2%;
+    font-weight: bold;
+}    
+
+#desc
+{
+    background-color: beige;
+
+}
